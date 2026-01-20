@@ -42,6 +42,9 @@ View the project on GitHub: [https://github.com/jraczynski6/query-keeper](https:
 - Created a **LocalStorage-based database** to track agent profiles and streamline the query process.  
 - Developed an **interactive dashboard** with drag-and-drop functionality for managing key information.  
 
+## Blog
+
+Check out my latest posts: [Blog](/blog/)
 
 ## Contact
 
